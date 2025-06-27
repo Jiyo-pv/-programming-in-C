@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "DIAGONAL.C": "cpp",
+        "CENTIGRA.C": "cpp",
+        "ASCII.C": "cpp",
+        "ARRAYOD2.C": "cpp",
+        "ARRAYMAX.C": "cpp",
+        "ARMSTRNG.C": "cpp",
+        "AREA.C": "cpp",
+        "AN3.C": "cpp",
+        "FACT3.C": "cpp",
+        "FACTSUM.C": "cpp",
+        "ROWCOL.C": "cpp",
+        "GRADE.C": "cpp",
+        "SUM1.C": "cpp",
+        "MULTIPLY.C": "cpp",
+        "TRANSPOS.C": "cpp"
+    }
+}
